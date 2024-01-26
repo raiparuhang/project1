@@ -1,0 +1,68 @@
+body {
+    font-family: 'Lato', sans-serif;
+   
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 52px;
+    line-height: 62px;
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 700;
+}
+.container a{
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 700;
+}
+.hero p{
+    font-size:18px ;
+    line-height:27px ;
+    font-weight: 400;
+}
+footer li{
+    font-size:14px ;
+    font-weight:400 ;
+    line-height:21px ;
+}
+
+.tour img {
+    height: 240px;
+    object-fit: cover;
+}
+
+.hero {
+    background: linear-gradient(rgba(9, 9, 9, 0.521), rgba(0, 0, 0, 0.526)), url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.logo {
+    width: 100px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+    padding: 15px;
+}
+
+.quote {
+    background: linear-gradient(rgba(23, 23, 23, 0.692), rgba(20, 21, 20, 0.686)), url(https://nepalwanders.com/wp-content/themes/nepalwanders/img/youtube.jpg);
+    height: 90vh;
+    background-size: cover;
+
+}
+
+.playicon {
+    font-size: 90px;
+    color: #FFC107;
+    margin-left: 100px;
+}
+
+.row li {
+    list-style: none;
+    line-height: 32px;
+}
